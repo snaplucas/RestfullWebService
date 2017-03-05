@@ -1,4 +1,4 @@
-package hello;
+package br.com.restfull.hello;
 
 public class Greeting {
 
