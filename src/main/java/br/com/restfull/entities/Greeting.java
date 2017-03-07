@@ -1,11 +1,11 @@
-package br.com.restfull.hello;
+package br.com.restfull.entities;
 
 public class Greeting {
 
     private final long id;
     private final String content;
 
-    Greeting(long id, String content) {
+    public Greeting(long id, String content) {
         this.id = id;
         this.content = content;
     }
